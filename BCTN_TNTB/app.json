@@ -1,0 +1,42 @@
+{
+  "expo": {
+    "name": "BCTN_TNTB",
+    "slug": "BCTN_TNTB",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./image/TDMU (2).png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "y"
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./image/TDMU (2).png",
+        "backgroundColor": "#ffffff"
+      },
+      "package": "com.anonymous.BCTN_TNTB",
+      "permissions": [
+        "VIBRATE"
+      ],
+      "notification": {
+        "icon": "./image/TDMU.png",
+        "color": "#000000",
+        "sound": "default"
+      }
+    },
+    "web": {
+      "favicon": "./image/TDMU (2).png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "db9a0d71-5fec-4dae-96af-635f58858de6"
+      }
+    }
+  }
+}

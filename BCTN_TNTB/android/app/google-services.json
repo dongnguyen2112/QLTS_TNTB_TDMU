@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1073563323459",
+    "project_id": "bctn-83723",
+    "storage_bucket": "bctn-83723.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1073563323459:android:e34acf13ff2395153318f6",
+        "android_client_info": {
+          "package_name": "com.anonymous.BCTN_TNTB"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDa7jou3M5T0Pl8aL0dT0MdgrzaVCQZvZk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
